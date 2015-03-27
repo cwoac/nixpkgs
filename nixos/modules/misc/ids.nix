@@ -173,6 +173,7 @@
       peerflix = 163;
       chronos = 164;
       gitlab = 165;
+      mediatomb = 187;
 
       # When adding a uid, make sure it doesn't match an existing gid. And don't use uids above 399!
 
@@ -311,6 +312,7 @@
       fleet = 159;
       gitlab = 160;
       input = 174;
+      mediatomb = 187;
 
       # When adding a gid, make sure it doesn't match an existing uid. And don't use gids above 399!
 
